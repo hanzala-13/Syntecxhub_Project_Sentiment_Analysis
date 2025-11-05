@@ -28,7 +28,7 @@ The notebook compares both approaches and shows how text sentiment can be detect
 ## 🚀 How to Run
 1. Clone this repository or download the ZIP:
    ```bash
-   git clone https://github.com/<hanzala-13>/Syntecxhub_Project_Sentiment_Analysis.git
+   git clone https://github.com/hanzala-13/Syntecxhub_Project_Sentiment_Analysis.git
 
 📂 Note: The original dataset (Reviews.csv, ~287 MB) is too large to upload to GitHub.
 It is stored locally and can be shared upon request.
